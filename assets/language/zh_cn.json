@@ -1,0 +1,247 @@
+zh_cn({
+	"basicInfo": {
+		"name": "刘立一",
+		"title": "☆ 前端开发",
+		"profileInfo": "鄙人自小对科学、物理等学科有独特的兴趣，小学时期开始接触电脑，开启了自己的计算机学习生涯。本人做事勤恳、细心，富有工作责任心，喜欢与人交流。善于思考，学习理解和适应能力强。爱好户外爬山、跑步、篮球、游泳等。思维反应快速敏捷，学习适应能力过硬，具备从事软件开发工作所需要的细心和耐心。我始终坚信唯有付出，方有收获，天道酬勤，想要成功，就得脚踏实地，比别人努力再努力。",
+		"email": "lambor_win@outlook.com",
+		"mobile": "180 8010 1997",
+		"website": "https://www.cnlambor.cn/work",
+		"authorTitle": "作者",
+		"authorValue": "Lambor",
+		//"sourceCode": ""
+	},
+	"experiences": {
+		"navTitle": "工作经验",
+		"sectionTitle": "工作经验",
+		"workExperiences": [
+			{
+				"place": "成都中地六合科工贸有限公司",
+				"location": "成都",
+				"title": "前端开发",
+				"industry": "服务供应商",
+				"time": "2018.4 — 至今",
+				"jobDesc": "作为前端开发，参与各县市门户网站、后台管理系统的开发，"
+			},
+			{
+				"place": "成都健乐美智能居家养老服务中心",
+				"location": "成都",
+				"title": "安卓开发",
+				"industry": "互联网",
+				"time": "2016.3—2018.4",
+				"jobDesc": "作为安卓开发，参与公司内部定制app开发"
+			},
+			{
+				"place": "成都天纵科技有限公司",
+				"location": "成都",
+				"title": "前端开发",
+				"industry": "互联网",
+				"time": "2015.12—2016.3",
+				"jobDesc": "作为安卓开发实习生，参与手机app开发"
+			}
+		]
+	},
+	"projects": {
+		"navTitle": "项目经验",
+		"sectionTitle": "项目经验",
+		"projectEnv": "技术环境",
+		"projectDesc": "项目描述",
+		"responsibilityDesc": "责任描述",
+		"projectExperiences": [
+			{
+				"name": "成都中地六合科工贸有限公司",
+				"location": "成都",
+				"title": "前端开发",
+				"industry": "服务供应商",
+				"time": "2018.4 — 至今",
+				"env": "HTML5 + CSS + Vue.js + …",
+				"desc": "为各县市区地方政府研发设计后台管理系统。系统采用前后端分离，后台统一通过接口返回JSON数据，前端采用纯HTML5页面，配合数据绑定框架Vue.js简化开发",
+				"responsibility": "作为前端开发，参与项目系统的架构设计、调整和优化，参与相关需求的调研和讨论，活跃团队氛围。不定时的奔赴客户现场，进行相关的技术支持和咨询，帮助和引导客户更好的使用系统。"
+			},
+			{
+				"name": "成都健乐美智能居家养老服务中心",
+				"location": "成都",
+				"title": "安卓开发",
+				"industry": "互联网",
+				"time": "2016.3—2018.4",
+				"env": "Java",
+				"desc": "健乐美app是针对公司内部会员定制，内置于公司定制手机当中，功能涉及老年人养老生活各个方面；摔倒报警、老年社区、医学咨询等；特色功能即摔倒报警，app会实时监测重力加速度，并进行判定老年人是否摔倒，并进行呼叫紧急联系人",
+				"responsibility": "作为安卓开发，负责产品的整体架构设计，进行相关产品的研究与分析，协同产品经理完成前期需求调研，配合产品研发团队完成app的研发等。"
+			},
+			{
+				"name": "成都天纵科技有限公司",
+				"location": "成都",
+				"title": "安卓开发",
+				"industry": "互联网",
+				"time": "2015.12—2016.3",
+				"env": "Java",
+				"desc": "与研发团队配合进行app开发",
+				"responsibility": "作为实习生配合研发团队进行app开发，期间不间断的学习使自己积累了诸多宝贵的代码经验，也为日后的代码生涯起到关键的铺垫作用"
+			}
+		]
+	},
+	"education": {
+		"navTitle": "教育经历",
+		"sectionTitle": "教育经历",
+		"educations": [
+			{
+				"educationBody": "东北大学",
+				"degree": "自考本科",
+				"time": "2013 - 2018",
+				"desc": "就读于东北大学，工商管理专业，自考本科毕业"
+			},
+			{
+				"educationBody": "大连航运职业技术学院",
+				"degree": "专科",
+				"time": "2011 - 2014",
+				"desc": "就读于大连航运职业技术学院，度过三年大学学习生涯，顺利完成相关学业。"
+			}
+		]
+	},
+	"skills": {
+		"navTitle": "专业技能",
+		"sectionTitle": "专业技能",
+		"topSkills": [
+			{
+				"name": "Html",
+				"percent": "98",
+				"level": "Expert, 8+ years",
+				"time": "2016 - Present",
+				"desc": "desc here."
+			},
+			{
+				"name": "CSS",
+				"percent": "97",
+				"level": "Expert, 5+ years",
+				"time": "2016 - Present",
+				"desc": "desc here."
+			},
+			{
+				"name": "JavaScript",
+				"percent": "70",
+				"level": "Expert, 5+ years",
+				"time": "2016 - Present",
+				"desc": "desc here."
+			},
+			{
+				"name": "Vue",
+				"percent": "70",
+				"level": "Expert, 3+ years",
+				"time": "2016 - Present",
+				"desc": "desc here."
+			}
+		],
+		"otherSkills": [
+			{
+				"name": "HTML5"
+			},
+			{
+				"name": "CSS3"
+			}
+		],
+		"skillItems": [
+			{
+				"name": "☆ 熟悉Html/CSS/JavaScript，进行结构样式分离，代码工整简洁可读性高;"
+			},
+			{
+				"name": "☆ 能够应用Vue框架进行快速开发; 熟悉Ajax/Json等Web通讯技术 ;"
+			},
+			{
+				"name": "☆ 掌握前台开发，掌握Vue.js、Element UI、HTML、CSS、JavaScript、AJAX、JQuery等主流前端技术的使用。"
+			},
+			{
+				"name": "☆ 了解NodeJS/MySQL/SqlServer。"
+			}
+		]
+	},
+	"portfolio": {
+		"navTitle": "作品展示",
+		"sectionTitle": "作品展示",
+		"categories": [
+			{
+				"name": "frontend",
+				"title": "Front-end",
+				"desc": "前端项目"
+			}
+		],
+		"portfolios": [
+			{
+				"img": "assets/images/portfolio/ployun.png",
+				"title": "武当云平台",
+				"category": "backend",
+				"technique": "Vue",
+				"desc": "专注于航空航天、船舶运输、轨道交通行业的垂直领域云平台。",
+				"url": "http://www.ployun.cn/"
+			},
+			{
+				"img": "assets/images/portfolio/portfolio-1.jpg",
+				"title": "demo",
+				"category": "backend",
+				"technique": "demo",
+				"desc": "demo",
+				"url": "https://gitee.com/liuge1988/kitty"
+			},
+			{
+				"img": "assets/images/portfolio/portfolio-2.jpg",
+				"title": "demo",
+				"category": "frontend",
+				"technique": "demo",
+				"desc": "demo",
+				"url": "https://gitee.com/liuge1988/kitty-ui"
+			},
+			{
+				"img": "assets/images/portfolio/portfolio-3.jpg",
+				"title": "demo",
+				"category": "frontend",
+				"technique": "demo",
+				"desc": "demo",
+				"url": "https://gitee.com/liuge1988/brilliant"
+			},
+			{
+				"img": "assets/images/portfolio/portfolio-4.jpg",
+				"title": "demo",
+				"category": "backend",
+				"technique": "demo",
+				"desc": "demo",
+				"url": "http://139.196.87.48:9002/kitty"
+			},
+			{
+				"img": "assets/images/portfolio/portfolio-5.jpg",
+				"title": "demo",
+				"category": "backend",
+				"technique": "demo",
+				"desc": "demo",
+				"url": "http://139.196.87.48:9002/kitty"
+			},
+			{
+				"img": "assets/images/portfolio/portfolio-6.jpg",
+				"title": "demo",
+				"category": "backend",
+				"technique": "demo",
+				"desc": "demo",
+				"url": "https://gitee.com/liuge1988/brilliant"
+			},
+			{
+				"img": "assets/images/portfolio/portfolio-7.jpg",
+				"title": "demo",
+				"category": "backend",
+				"technique": "demo",
+				"desc": "demo",
+				"url": "https://gitee.com/liuge1988/brilliant"
+			}
+		]
+	},
+	"contact": {
+		"navTitle": "联系方式",
+		"sectionTitle": "联系方式",
+		"notice": "我目前就职于一家致力于GIS(地理信息系统)软件开发和系统集成的企业，担任前端开发职务，主要进行软件项目的研发工作。如果有什么需要，可以通过下面提供的方式联系我。",
+		"message": "欢迎给我留言",
+		"call": "或者致电",
+		"thanks": "，感谢您的访问。",
+		"provideServices": "提供服务：",
+		"services": [
+			{
+				"name": "担任前端开发"
+			}
+		]
+	}
+})
